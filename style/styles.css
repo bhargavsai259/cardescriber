@@ -1,0 +1,26 @@
+*{
+    padding:0;
+
+    margin:0;
+
+    background-color:#eee;
+}
+
+.comment-box h2{
+    top:50%;
+    left:50%;
+    position:absolute;
+    transform:translate(-50%, -50%);
+    width: 500px;
+}
+.comment-box input{
+
+    width:100%;
+    height:50px;
+    padding :020px;
+
+}
+.comment-box input{
+    
+
+}
